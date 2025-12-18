@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Storyboard Prompter",
+  "description": "A 3x3 storyboard prompt generator that analyzes reference images using Gemini and allows shot customization.",
+  "requestFramePermissions": []
+}
